@@ -5,3 +5,7 @@ menggunakan algoritma Random Forest.
 
 ## Author
 Fylan
+
+## Repository Information
+
+This project is managed using Git and GitHub.
